@@ -1,0 +1,278 @@
+[
+  {
+    "scene": "exchange-side",
+    "sourceVideo": "recording-2026-10-01-13-48-15(1).mp4",
+    "sourceSeconds": 0,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "完整遊戲頁；移除瀏覽器及桌面工具列"
+  },
+  {
+    "scene": "allcoins-confirm",
+    "sourceVideo": "recording-2026-10-01-13-48-15(1).mp4",
+    "sourceSeconds": 20,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "完整遊戲頁；移除瀏覽器及桌面工具列"
+  },
+  {
+    "scene": "allcoins-limit",
+    "sourceVideo": "recording-2026-10-01-13-48-15(1).mp4",
+    "sourceSeconds": 30,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "完整遊戲頁；移除瀏覽器及桌面工具列"
+  },
+  {
+    "scene": "allpoints-before",
+    "sourceVideo": "recording-2026-10-01-13-48-15(1).mp4",
+    "sourceSeconds": 114,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "完整遊戲頁；移除瀏覽器及桌面工具列"
+  },
+  {
+    "scene": "allpoints-confirm",
+    "sourceVideo": "recording-2026-10-01-13-48-15(1).mp4",
+    "sourceSeconds": 119,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "完整遊戲頁；移除瀏覽器及桌面工具列"
+  },
+  {
+    "scene": "allpoints-after",
+    "sourceVideo": "recording-2026-10-01-13-48-15(1).mp4",
+    "sourceSeconds": 136,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "完整遊戲頁；移除瀏覽器及桌面工具列"
+  },
+  {
+    "scene": "coins-input",
+    "sourceVideo": "recording-2026-10-01-13-48-15(1).mp4",
+    "sourceSeconds": 138,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "完整遊戲頁；移除瀏覽器及桌面工具列"
+  },
+  {
+    "scene": "coins-review",
+    "sourceVideo": "recording-2026-10-01-13-48-15(1).mp4",
+    "sourceSeconds": 140,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "完整遊戲頁；移除瀏覽器及桌面工具列"
+  },
+  {
+    "scene": "coins-after",
+    "sourceVideo": "recording-2026-10-01-13-48-15(1).mp4",
+    "sourceSeconds": 143,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "完整遊戲頁；移除瀏覽器及桌面工具列"
+  },
+  {
+    "scene": "buy-review",
+    "sourceVideo": "recording-2026-10-01-13-48-15(1).mp4",
+    "sourceSeconds": 50,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "完整遊戲頁；移除瀏覽器及桌面工具列"
+  },
+  {
+    "scene": "picture-in-picture",
+    "sourceVideo": "recording-2026-10-01-09-08-37(1).mp4",
+    "sourceSeconds": 170,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "完整遊戲頁；移除瀏覽器及桌面工具列"
+  },
+  {
+    "scene": "game-statistics",
+    "sourceVideo": "recording-2026-10-01-09-08-37(1).mp4",
+    "sourceSeconds": 80,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "完整遊戲頁；移除瀏覽器及桌面工具列"
+  },
+  {
+    "scene": "filters",
+    "sourceVideo": "recording-2026-09-30-16-23-16(4).mp4",
+    "sourceSeconds": 40,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "使用未顯示RU測的影片畫面"
+  },
+  {
+    "scene": "occupancy23-game",
+    "sourceVideo": "recording-2026-10-02-10-18-54.mp4",
+    "sourceSeconds": 1,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "使用者補充影片；完整內容畫面，移除瀏覽器列與桌面工具列"
+  },
+  {
+    "scene": "occupancy23-return",
+    "sourceVideo": "recording-2026-10-02-10-18-54.mp4",
+    "sourceSeconds": 4.4,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "使用者補充影片；完整內容畫面，移除瀏覽器列與桌面工具列"
+  },
+  {
+    "scene": "occupancy23-lobby",
+    "sourceVideo": "recording-2026-10-02-10-18-54.mp4",
+    "sourceSeconds": 5.6,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "使用者補充影片；完整內容畫面，移除瀏覽器列與桌面工具列"
+  },
+  {
+    "scene": "occupancy23-all",
+    "sourceVideo": "recording-2026-10-02-10-18-54.mp4",
+    "sourceSeconds": 7,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "使用者補充影片；完整內容畫面，移除瀏覽器列與桌面工具列"
+  },
+  {
+    "scene": "occupancy23-reentry",
+    "sourceVideo": "recording-2026-10-02-10-18-54.mp4",
+    "sourceSeconds": 15,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "使用者補充影片；完整內容畫面，移除瀏覽器列與桌面工具列"
+  },
+  {
+    "scene": "occupancy23-reserve",
+    "sourceVideo": "recording-2026-10-02-10-18-54.mp4",
+    "sourceSeconds": 17.8,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "使用者補充影片；完整內容畫面，移除瀏覽器列與桌面工具列"
+  },
+  {
+    "scene": "occupancy23-reserved-all",
+    "sourceVideo": "recording-2026-10-02-10-18-54.mp4",
+    "sourceSeconds": 21.3,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "使用者補充影片；完整內容畫面，移除瀏覽器列與桌面工具列"
+  },
+  {
+    "scene": "occupancy23-reserved",
+    "sourceVideo": "recording-2026-10-02-10-18-54.mp4",
+    "sourceSeconds": 22.5,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "使用者補充影片；完整內容畫面，移除瀏覽器列與桌面工具列"
+  },
+  {
+    "scene": "occupancy23-expired",
+    "sourceVideo": "recording-2026-10-02-10-18-54.mp4",
+    "sourceSeconds": 26,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "使用者補充影片；完整內容畫面，移除瀏覽器列與桌面工具列"
+  },
+  {
+    "scene": "occupancy23-lobby-success",
+    "sourceVideo": "recording-2026-10-02-10-18-54.mp4",
+    "sourceSeconds": 20,
+    "crop": [
+      0,
+      124,
+      1920,
+      1040
+    ],
+    "description": "使用者補充影片；完整內容畫面，移除瀏覽器列與桌面工具列"
+  }
+]
